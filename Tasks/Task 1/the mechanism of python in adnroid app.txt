@@ -1,0 +1,38 @@
+Kivy: Kivy is an open-source Python library for developing multi-touch applications. It's a great choice for creating cross-platform mobile apps, including Android. Kivy provides a natural user interface, and you can write the code in Python. You can use the Kivy framework to create Android apps.
+
+Website: https://kivy.org/
+Documentation: https://kivy.org/doc/stable/
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+BeeWare Toga: Toga is a Python library for creating cross-platform GUI applications, including Android. It abstracts the underlying platform's native widgets, allowing you to write code once and deploy it on multiple platforms.
+
+Website: https://beeware.org/project/projects/toga
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+SL4A (Scripting Layer for Android): SL4A is an open-source project that allows you to run scripts written in various scripting languages, including Python, on Android. You can use SL4A to create Android apps using Python scripts.
+
+GitHub Repository: https://github.com/damonkohler/sl4a
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+PyQt: PyQt is a set of Python bindings for the Qt application framework, which can be used to develop Android applications. While PyQt primarily focuses on desktop applications, it's possible to adapt it for Android.
+
+Website: https://www.riverbankcomputing.com/software/pyqt/intro
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+KivyMD: KivyMD is a Material Design extension for Kivy, which allows you to create Android applications with a modern and attractive UI. It's built on top of Kivy and simplifies the process of creating Android apps with Python.
+
+GitHub Repository: https://github.com/HeaTTheatR/KivyMD
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Pyqtdeploy: PyQtDeploy is a tool for deploying PyQt applications. While not directly for Android development, it can be used to bundle your PyQt application for Android deployment.
+
+GitHub Repository: https://www.riverbankcomputing.com/software/pyqtdeploy/intro
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
